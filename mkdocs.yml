@@ -1,4 +1,6 @@
 site_name: Sample 2
+repo_url: https://github.com/A-Baji/mk-docs-sample2
+repo_name: Sample 2 Repo
 theme:
   name: material
 
